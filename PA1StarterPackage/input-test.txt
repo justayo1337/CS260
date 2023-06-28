@@ -1,0 +1,11 @@
+insertToHead john brown 1.76 35
+printListInfo
+insertToHead jonathan green 1.68 27
+printListInfo
+insertToTail sylvia white 1.81 22
+printListInfo
+insertToTail test white 1.81 22
+printListInfo
+insertToPosition 7 david anderssonn 1.75 28
+printListInfo
+printList
