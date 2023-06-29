@@ -6,6 +6,9 @@ insertToTail sylvia white 1.81 22
 printListInfo
 insertToTail test white 1.81 22
 printListInfo
-insertToPosition 7 david anderssonn 1.75 28
+insertToPosition 3 david anderssonn 1.75 28
+deleteFromHead
+deleteFromTail
+deleteFromPosition 1
 printListInfo
 printList

@@ -16,4 +16,7 @@ deleteFromPosition 1
 printList
 printListInfo
 weirdCommand
+insertToPosition 3 sylfia white 1.81 22
+printListInfo
+printList
 deleteList
